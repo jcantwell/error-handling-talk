@@ -3,7 +3,7 @@
 # Starting project
 
 ```bash
-npm i
+npm install
 
 npm start
 ```
